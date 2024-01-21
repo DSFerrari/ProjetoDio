@@ -1,1 +1,4 @@
-# ProjetoDio
+# Desafio Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin
+## O desafio era o seguinte, abstrair de uma aplicação de dominio uma solução em Kotlin
+### A DIO possui Formacoes incríveis que têm como objetivo oferecer um conjunto de ConteudosEducacionais voltados para uma stack tecnológica específica, preparando profissionais de TI para o mercado de trabalho. Formacoes possuem algumas características importantes, como nome, nivel e seus respectivos conteudosEducacionais. Além disso, tais experiências educacionais têm um comportamento relevante ao nosso domínio, definido pela capacidade de matricular um ou mais Alunos.
+## O codigo que desenvolvi permite que o usuário digite no sistema a formação e o conteudoEducacional,matricule alunos,visualize as formações e Usuarios existentes(essa busca pode ser generalizada ou específica), e a inclusão de novos conteudos e alunos em formações já existentes
